@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1583504027 source:c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\image.cpp
+	"Image.hpp"
+	<vector>
+	"Triangle.hpp"
+	"Pixel.hpp"
+	"bitmap_image.hpp"
+
+1583437265 c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\image.hpp
+	<vector>
+	<string>
+	"Pixel.hpp"
+
+1583428608 c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\pixel.hpp
+	"Maillage.hpp"
+	"Triangle.hpp"
+	"Pixel.hpp"
+
+1584203864 c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\maillage.hpp
+	<string>
+	<sstream>
+	<vector>
+	<iterator>
+	"Point.hpp"
+	"Triangle.hpp"
+
+1583581966 c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\point.hpp
+	<iostream>
+	<vector>
+
+1583489993 c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\triangle.hpp
+	<vector>
+	"Point.hpp"
+
+946677600 c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+	<vector>
+
+1584204843 source:c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\maillage.cpp
+	"Maillage.hpp"
+	<string>
+	<fstream>
+	<ostream>
+	<iostream>
+	<cstdlib>
+	<limits>
+	<math.h>
+	"Triangle.hpp"
+
+1584203756 source:c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Maillage.hpp"
+	"Image.hpp"
+	"bitmap_image.hpp"
+	"Ray_Tracing.hpp"
+	"Triangle.hpp"
+	"Testfile.hpp"
+
+1583508398 c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\ray_tracing.hpp
+	<string>
+	"Image.hpp"
+	"Point.hpp"
+	"Maillage.hpp"
+
+1583428669 source:c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\pixel.cpp
+	"Pixel.hpp"
+	<iostream>
+	<cstdlib>
+
+1583582187 source:c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\point.cpp
+	"Point.hpp"
+	<iostream>
+	<cstdlib>
+	<cmath>
+
+1584204462 source:c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\triangle.cpp
+	"Triangle.hpp"
+	<iostream>
+	<cmath>
+	<cstdlib>
+
+1583508636 source:c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\ray_tracing.cpp
+	"Ray_Tracing.hpp"
+	<cmath>
+	"Triangle.hpp"
+	<iostream>
+	<cstdlib>
+
+1584203794 c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\testfile.hpp
+	<iostream>
+	<sstream>
+	<vector>
+	"Point.hpp"
+	"Triangle.hpp"
+	"Maillage.hpp"
+	"Ray_Tracing.hpp"
+
+1584203887 source:c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\kdnode.cpp
+	"KDNode.hpp"
+
+1584203812 c:\users\gabriel\documents\m1 maths appliqueés\sim c++\projet_sim202\kdnode.hpp
+	<vector>
+	<iostream>
+	"Point.hpp"
+	"Maillage.hpp"
+
